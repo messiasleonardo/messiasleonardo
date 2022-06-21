@@ -1,4 +1,34 @@
-### Hi there 👋
+<div align="left">
+    <h1>Hi &nbsp;👋&nbsp; I'm Leonardo Alves</h1>
+    <h3>Passionate about Programming, Data Science. Currently working as a full-stack programmer </h3>
+    <p><em>Bachelor Information Systems with Management and Communication at <a href="https://www.espm.br/cursos-de-graduacao/sistemas-de-informacao/">ESPM</a></br>
+    Full Stack developer at <a href="https://www.eritel.com.br/">Eritel</a></em></p>
+    
+[![Linkedin: LeonardoAlves](https://img.shields.io/badge/-LeonardoAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-messias-alves-a5261a15b/)](https://www.linkedin.com/in/leonardo-messias-alves-a5261a15b/)
+[![Whatsapp: Leonardo](https://img.shields.io/badge/-LeonardoAlves-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://www.linkedin.com/in/leonardo-messias-alves-a5261a15b/)](https://api.whatsapp.com/send/?phone=5511970281491&text&app_absent=0)
+</div>
+
+### A Little more about me:
+```javascript
+const leo = {
+  languages: [C# , Javascript, Typescript, Python],
+  front: [HTML, CSS, Jquery, Razor, Bootstrap],
+  back: [Node.js, C#, .NET],
+  dataBase: [SqlServer, MySQL, Oracle],
+  cloudService: [AWS, Azure],
+  sourceControl&CI/CD: [VSCode, Postman],
+  architecture: ["microservices", "SOLID", "Clean Code", "API", "TDD"],
+  challenge: "Solving all problems on the LeetCode website and always preparing myself with the latest"
+  }
+```
+
+## GitHub Stats
+<div aling="center">
+<img src="https://github-readme-stats.vercel.app/api?username=messiasleonardo&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="https://github.com/messiasleonardo"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=messiasleonardo&theme=material-palenight" alt="https://github.com/messiasleonardo"/>
+</div>
+
+
 
 <!--
 **messiasleonardo/messiasleonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
