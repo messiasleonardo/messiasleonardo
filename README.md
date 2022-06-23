@@ -18,7 +18,7 @@ const leo = {
   dataBase: [SqlServer, MySQL, Oracle],
   cloudService: [AWS, Azure],
   sourceControl&CI/CD: [VSCode, Postman],
-  architecture: ["microservices", "SOLID", "Clean Code", "API", "TDD"],
+  architecture: ["microservices", "SOLID", "Clean Code", "API", "TDD", "OOP"],
   challenge: "Solving all problems on the LeetCode website and always preparing myself with the latest"
   }
 ```
