@@ -13,7 +13,7 @@
 ```javascript
 const leo = {
   languages: [C# , Javascript, Typescript, Python],
-  front: [HTML, CSS, Jquery, Razor, Bootstrap],
+  front: [Html, Css, Jquery, Razor, Bootstrap],
   back: [Node.js, C#, .NET],
   dataBase: [SqlServer, MySQL, Oracle],
   cloudService: [AWS, Azure],
