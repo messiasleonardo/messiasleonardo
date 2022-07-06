@@ -5,7 +5,7 @@
     Full Stack developer at <a href="https://www.eritel.com.br/">Eritel</a></em></p>
     
 [![Linkedin: LeonardoAlves](https://img.shields.io/badge/-LeonardoAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-messias-alves-a5261a15b/)](https://www.linkedin.com/in/leonardo-messias-alves-a5261a15b/)
-[![Whatsapp: Leonardo](https://img.shields.io/badge/-LeonardoAlves-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5511970281491&text&app_absent=0)](https://api.whatsapp.com/send/?phone=5511970281491&text&app_absent=0)
+
 [![Outlook: leonardo.mess@terra.com.br](https://img.shields.io/badge/leonardo.mess@terra.com.br-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:leonardo.mess@terra.com.br)
 </div>
 
