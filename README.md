@@ -2,7 +2,7 @@
     <h1>Hi &nbsp;👋&nbsp; I'm Leonardo Alves</h1>
     <h3>Passionate about Programming, Data Science. Currently working as a full-stack programmer </h3>
     <p><em>Bachelor Information Systems with Management and Communication at <a href="https://www.espm.br/cursos-de-graduacao/sistemas-de-informacao/">ESPM</a></br>
-    Full Stack developer at <a href="https://www.eritel.com.br/">Eritel</a></em></p>
+    Full Stack developer at <a href="https://www.itau.com.br/">Itau Unibanco</a></em></p>
     
 [![Linkedin: LeonardoAlves](https://img.shields.io/badge/-LeonardoAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-messias-alves-a5261a15b/)](https://www.linkedin.com/in/leonardo-messias-alves-a5261a15b/)
 
